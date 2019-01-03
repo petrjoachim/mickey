@@ -1,6 +1,5 @@
 
 # Syntax highlighting
-highlighter:         pygments
 
 # Permalinks
 permalink:           /:title
@@ -14,7 +13,7 @@ tagline:             'tagline'
 description:         'description'
 url:                 nerozum.cz
 rss:                 rss feed url
-baseurl:             ''
+baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
