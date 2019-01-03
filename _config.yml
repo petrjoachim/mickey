@@ -5,13 +5,13 @@
 permalink:           /:title
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
+timezone:            Europe/Prague # eg. Asia/Kathmandu
 locale:              cs_cz # eg. en_us
 name:				         Nerozum
 title:               Nerozum.cz
 tagline:             'tagline'
 description:         'description'
-url:                 nerozum.cz
+url:                 //www.nerozum.cz
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
